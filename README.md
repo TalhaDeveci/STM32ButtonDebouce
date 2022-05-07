@@ -2,3 +2,5 @@
 ##alt satir
 
 asdasdasdasd
+
+readme changed
